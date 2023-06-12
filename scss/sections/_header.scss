@@ -16,5 +16,8 @@
     &:focus{
       color: var(--main-regular);
     }
+    &:active{
+      opacity: 1;
+    }
   }
 }
