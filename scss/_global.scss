@@ -5,6 +5,23 @@
 body{
   font-family:  'Roboto', sans-serif;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 16px;
+  line-height: 1.625;
+  background: #EEEFF1;;
+}
+
+.container{
+  padding-left: calc(50vw - 555px);
+  padding-right: calc(50vw - 555px);
+}
+
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
