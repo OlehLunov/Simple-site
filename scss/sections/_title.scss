@@ -1,0 +1,23 @@
+.title{
+  padding-top: 151px;
+  padding-bottom: 141px;
+  &__head{
+    margin-bottom: 60px;
+    font-weight: var(--font-medium);
+    font-size: 48px;
+    line-height: 1.645;
+  }
+  &__text{
+    margin-bottom: 65px;
+    max-width: 540px;
+    color: #727272;
+  }
+  &__btn{
+    padding: 21px 70px;
+    color: var(--text-light);
+    background-color: var(--main-regular);
+    &:hover{
+      opacity: .3;
+    }
+  }
+}

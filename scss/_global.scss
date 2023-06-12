@@ -7,7 +7,7 @@ body{
   font-weight: 400;
   font-size: 16px;
   line-height: 1.625;
-  background: #EEEFF1;;
+  background: #EEEFF1;
 }
 
 .container{
@@ -21,6 +21,16 @@ a{
 
 ul{
   list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+}
+
+p{
   padding: 0;
   margin: 0;
 }
