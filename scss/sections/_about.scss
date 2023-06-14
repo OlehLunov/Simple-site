@@ -1,0 +1,19 @@
+.about{
+ display: flex;
+  justify-content: center;
+}
+.about__content{
+  padding-top: 112px;
+  padding-bottom: 100px;
+  &-title{
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: var(--font-medium);
+    font-size: 32px;
+    line-height: 1.187;
+  }
+  &-text{
+    max-width: 540px;
+    text-align: center;
+  }
+}
