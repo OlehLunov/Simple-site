@@ -14,6 +14,7 @@
     &:hover,
     &:focus{
       color: var(--main-regular);
+      cursor: pointer;
     }
     &:active{
       opacity: 1;
